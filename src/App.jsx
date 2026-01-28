@@ -1,10 +1,10 @@
 import "./App.css";
-import WheatherApp from "./Components/WheatherApp";
+import WeatherApp from "./Components/WeatherApp";
 
 function App() {
   return (
     <>
-      <WheatherApp />
+      <WeatherApp />
     </>
   );
 }
